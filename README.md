@@ -32,7 +32,7 @@ Generuojant puslapis turi likti atidarytas. Priklausomai nuo naršyklės, failas
 
 Instrukcijos eksportui – pačioje programėlėje ir [EXPORT_GUIDE.md](EXPORT_GUIDE.md).
 
-Pradinio puslapio nuotraukos autorystė ir išorinės paslaugos nurodytos [NOTICE.md](NOTICE.md).
+Pradinio puslapio ženklas ir išorinės paslaugos aprašytos [NOTICE.md](NOTICE.md).
 
 ---
 
@@ -68,4 +68,4 @@ Keep the page open during video generation. Depending on the browser, the output
 
 File-export instructions are available in the app and in [EXPORT_GUIDE.md](EXPORT_GUIDE.md).
 
-The homepage photograph credit and external resources are listed in [NOTICE.md](NOTICE.md).
+The homepage identity and external resources are described in [NOTICE.md](NOTICE.md).
