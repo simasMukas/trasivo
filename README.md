@@ -1,8 +1,8 @@
-# Maršruto filmukas
+# Trasivo
 
 ## Lietuviškai
 
-Mobiliesiems pritaikytas maršruto vaizdo įrašų kūrimo įrankis. Įkelk vienos GPS veiklos GPX, FIT arba TCX failą ir sugeneruok filmuką. Sąsaja ir rodmenys palaiko LT / EN.
+**Trasivo** – mobiliesiems pritaikytas maršruto vaizdo įrašų kūrimo įrankis. Įkelk vienos GPS veiklos GPX, FIT arba TCX failą ir sugeneruok filmuką. Sąsaja ir rodmenys palaiko LT / EN.
 
 ### Naudojimas
 
@@ -36,7 +36,7 @@ Pradinio puslapio nuotraukos autorystė ir išorinės paslaugos nurodytos [NOTIC
 
 ## English
 
-**Route video** is a mobile-first GPS route video maker. Upload a GPX, FIT or TCX file from one GPS-recorded activity and generate a video. The interface and on-video stats support Lithuanian and English.
+**Trasivo** is a mobile-first GPS route video maker. Upload a GPX, FIT or TCX file from one GPS-recorded activity and generate a video. The interface and on-video stats support Lithuanian and English.
 
 ### Usage
 
