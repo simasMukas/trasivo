@@ -2,7 +2,7 @@
 
 Instrukcijos patikrintos / Instructions checked: **2026-11-15**.
 
-Rinkis vieną GPS veiklą. ZIP išskleisk; neįkelk visos sveikatos duomenų kopijos. / Choose one GPS activity. Extract ZIP files; do not upload a full health-data archive.
+Rinkis vieną GPS veiklą. ZIP su viena treniruote gali įkelti tiesiogiai; neįkelk visos sveikatos duomenų kopijos. / Choose one GPS activity. Upload ZIP archives containing one activity directly; do not upload a full health-data archive.
 
 # Lietuviškai
 
@@ -12,7 +12,7 @@ Naršyklėje, ne Strava programėlėje
 
 1. Prisijunk prie strava.com ir atidaryk savo įrašytą veiklą.
 2. Veiklos meniu ⋯ pasirink Export Original. Galima rinktis ir Export GPX arba Export TCX, jei šie punktai rodomi.
-3. Išsaugok failą. Jei gavai ZIP, išskleisk jį ir pasirink viduje esantį FIT, GPX arba TCX failą.
+3. Išsaugok failą ir pasirink jį Trasivo. ZIP su viena treniruote išskleisti nereikia.
 
 Originalus FIT dažnai išlaiko daugiau rodmenų. Jei telefone eksporto meniu nematai, išbandyk naršyklės kompiuterinę svetainės versiją arba kompiuterį.
 
@@ -25,7 +25,7 @@ connect.garmin.com naršyklėje
 1. Sinchronizuok laikrodį su Garmin Connect, tada prisijunk prie connect.garmin.com.
 2. Atidaryk Activities → All Activities ir pasirink vieną veiklą.
 3. Paspausk nustatymų krumpliaratį ir pasirink Export File (originalų failą), Export to GPX arba Export to TCX.
-4. Išsaugok failą. ZIP archyvą pirmiausia išskleisk.
+4. Išsaugok failą. ZIP su viena treniruote gali įkelti tiesiogiai.
 
 Rinkis originalų FIT, jei nori išsaugoti ir maršrutą, ir jutiklių rodmenis. Veiklų sąrašo Export CSV šiam įrankiui netinka.
 
@@ -61,7 +61,7 @@ flow.polar.com naršyklėje
 
 1. Prisijunk prie flow.polar.com ir atidaryk Diary.
 2. Pasirink įrašytą treniruotę ir paspausk Export.
-3. Rinkis FIT, jei reikia maršruto ir rodmenų, arba GPX maršrutui. Atsisiųstą ZIP išskleisk.
+3. Rinkis FIT, jei reikia maršruto ir rodmenų, arba GPX maršrutui. ZIP su viena treniruote gali įkelti tiesiogiai.
 
 Polar GPX daugiausia skirtas maršrutui. CSV ši programėlė nepriima. Jei TCX faile nėra koordinačių, naudok FIT arba GPX.
 
@@ -147,7 +147,7 @@ In a browser, not the Strava app
 
 1. Sign in at strava.com and open one of your recorded activities.
 2. Open the activity’s ⋯ menu and choose Export Original. Export GPX or Export TCX may also be available.
-3. Save the file. If it arrives as a ZIP, extract it and choose the FIT, GPX or TCX inside.
+3. Save the file and select it in Trasivo. No need to extract a ZIP containing one activity.
 
 The original FIT often preserves more stats. If export controls are missing on your phone, try the browser’s desktop-site view or a computer.
 
@@ -160,7 +160,7 @@ connect.garmin.com in a browser
 1. Sync your watch with Garmin Connect, then sign in at connect.garmin.com.
 2. Open Activities → All Activities and select one activity.
 3. Open the settings gear and choose Export File (the original file), Export to GPX or Export to TCX.
-4. Save the file. Extract ZIP archives first.
+4. Save the file. Upload ZIP archives containing one activity directly.
 
 Choose the original FIT for the route and sensor stats. The activity list’s Export CSV option is not suitable for this tool.
 
@@ -196,7 +196,7 @@ flow.polar.com in a browser
 
 1. Sign in at flow.polar.com and open Diary.
 2. Select a recorded session and choose Export.
-3. Choose FIT for the route and stats, or GPX for the route. Extract any downloaded ZIP.
+3. Choose FIT for the route and stats, or GPX for the route. Upload ZIP archives containing one activity directly.
 
 Polar GPX focuses on the route. This app does not accept CSV. If a TCX has no coordinates, use FIT or GPX.
 
