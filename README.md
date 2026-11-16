@@ -14,7 +14,11 @@
 4. Paspausk **Generuoti filmuką**, palik ekraną įjungtą ir sulauk atsisiuntimo mygtuko.
 5. Papildomi pasirinkimai atidaromi per **Nustatymai**.
 
-ZIP archyvą prieš įkėlimą išskleisk. Apple Health XML, CSV, JSON ir bendrinimo nuorodos nepalaikomos. Originalus veiklos FIT paprastai išsaugo daugiau rodmenų; navigacijos GPX gali neturėti laiko ar pulso.
+ZIP su viena treniruote gali įkelti tiesiogiai (iki 32 MB, išskleistas failas iki 64 MB). Apple Health XML, CSV ir JSON nepalaikomi. Strava treniruotės nuoroda naudojama tik atsisiuntimui atidaryti, ne tiesioginiam importui. Originalus veiklos FIT paprastai išsaugo daugiau rodmenų; navigacijos GPX gali neturėti laiko ar pulso.
+
+### Failas iš Strava
+
+Pasirink **Įkelti iš Strava**, įklijuok pilną savo treniruotės nuorodą ir spausk **Atsisiųsti TCX iš Strava**. Atsisiuntimas vyksta Strava svetainėje; ten gali reikėti prisijungti. Grįžk ir pasirink atsisiųstą failą. API rakto ar Trasivo paskyros nereikia. Sutrumpintą bendrinimo nuorodą pirmiausia atidaryk naršyklėje ir nukopijuok pilną adresą. Telefone gali reikėti kompiuterinės svetainės versijos.
 
 ### GitHub Pages
 
@@ -50,7 +54,11 @@ Pradinio puslapio ženklas ir išorinės paslaugos aprašytos [NOTICE.md](NOTICE
 4. Select **Generate video**, keep your screen on and wait for the download button.
 5. Optional controls are available under **Settings**.
 
-Extract ZIP archives before uploading. Apple Health XML, CSV, JSON and sharing links are not supported. An original activity FIT usually preserves more stats; a navigation-only GPX may contain no timestamps or heart-rate data.
+Upload ZIP archives containing one activity directly (up to 32 MB compressed, 64 MB extracted). Apple Health XML, CSV and JSON are not supported. A Strava activity link opens the download; it does not directly import the activity. An original activity FIT usually preserves more stats; a navigation-only GPX may contain no timestamps or heart-rate data.
+
+### File from Strava
+
+Select **Upload from Strava**, paste the full URL of your own activity and select **Download TCX from Strava**. The download happens on Strava and may require signing in there. Return and choose the downloaded file. No API key or Trasivo account is needed. Open shortened share links in your browser to obtain the full activity URL. Phone users may need the desktop website.
 
 ### GitHub Pages
 
